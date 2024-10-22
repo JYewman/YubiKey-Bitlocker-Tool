@@ -1,0 +1,15 @@
+src/yubikey-bitlocker-tool.spec
+src/build/yubikey-bitlocker-tool/Analysis-00.toc
+src/build/yubikey-bitlocker-tool/base_library.zip
+src/build/yubikey-bitlocker-tool/EXE-00.toc
+src/build/yubikey-bitlocker-tool/PKG-00.toc
+src/build/yubikey-bitlocker-tool/PYZ-00.pyz
+src/build/yubikey-bitlocker-tool/PYZ-00.toc
+src/build/yubikey-bitlocker-tool/warn-yubikey-bitlocker-tool.txt
+src/build/yubikey-bitlocker-tool/xref-yubikey-bitlocker-tool.html
+src/build/yubikey-bitlocker-tool/yubikey-bitlocker-tool.pkg
+src/build/yubikey-bitlocker-tool/localpycs/pyimod01_archive.pyc
+src/build/yubikey-bitlocker-tool/localpycs/pyimod02_importers.pyc
+src/build/yubikey-bitlocker-tool/localpycs/pyimod03_ctypes.pyc
+src/build/yubikey-bitlocker-tool/localpycs/pyimod04_pywin32.pyc
+src/build/yubikey-bitlocker-tool/localpycs/struct.pyc
